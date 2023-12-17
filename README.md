@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Vernim-ke
+- 👋 Hi, I’m Josephat
 - 👀 I’m interested in Data science and Iot
 - 🌱 I’m currently learning different machine learning algorithms
 - 💞️ I’m looking to collaborate on projects that are looking to improve available datasets or build new ones for the good of the community. 
